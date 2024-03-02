@@ -142,4 +142,6 @@ with col2:
 
     st.pyplot(fig)
 
+st.caption('Copyright (c) Dicoding-Raafi 2024')
+
   
