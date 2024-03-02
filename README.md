@@ -5,6 +5,7 @@
 ### Deskripsi
 > Projek ini dibuat untuk menganalisa data pada bike sharing dataset.
 
+
 ### Struktur direktori
 >data/ : berisi raw data
 
@@ -17,6 +18,10 @@
 >requirements.txt : merupakan file requirements
 
 >url.txt : merupakan file berisi tautan untuk dashboard
+
+
+## Run Streamlit app
+streamlit run dashboard.py
 
 ### Sumber Data
 Data yang digunakan berasal dari data dicoding [BIKE SHARING DATASET](https://drive.google.com/file/d/1RaBmV6Q6FYWU4HWZs80Suqd7KQC34diQ/view)
